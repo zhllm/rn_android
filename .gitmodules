@@ -1,0 +1,3 @@
+[submodule "rn_module"]
+	path = rn_module
+	url = https://github.com/zhllm/rn_module.git
